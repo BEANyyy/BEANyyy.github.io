@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Yebin Jeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "**콩알만큼 사소한** 것들도 기록하자! <br>개인 개발 공부 및 참여한 프로젝트들을 업로드합니다."
   location         : "Somewhere"
   email            :

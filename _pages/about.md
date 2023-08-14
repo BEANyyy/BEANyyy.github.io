@@ -1,35 +1,30 @@
----
-permalink: /about/
-title: "About"
+<hr>
+<p>permalink: /about/
+title: &quot;About&quot;
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
-
-
----
-
-
-### Hi there 👋
-
+toc_label: &quot;MYSELF&quot;</p>
+<hr>
+<h3 id="hi-there-">Hi there 👋</h3>
 <div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yebin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;text=Welcome%20to%20Yebin&#39;s%20GitHub%20👋&amp;animation=twinkling&amp;fontSize=35&amp;fontAlignY=40&amp;fontAlign=70&amp;height=250" alt="header">
 ---
 
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBEANyyy&count_bg=%2379C83D&title_bg=%23FF6262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBEANyyy&amp;count_bg=%2379C83D&amp;title_bg=%23FF6262&amp;icon=github.svg&amp;icon_color=%23FFFFFF&amp;title=hits&amp;edge_flat=false" alt="GITHUB"></a>
 
-[![YEBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEANyyy&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/BEANyyy/github-readme-stats)
+<a href="https://github.com/BEANyyy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=BEANyyy&amp;include_all_commits=true&amp;theme=nord&amp;hide_border=true&amp;count_private=true" alt="YEBIN&#39;s GitHub stats"></a>
 
 <br>
 
 ## 😆 Introduction
-- 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
-- 🌱 I’m currently learning ML & Data Analysis in university
+- 🔭 I’m currently working on my project <a href="https://github.com/BEANyyy/AnalysticStockData">AnalysticStockData</a> for graduation
+- 🌱 I’m currently learning ML &amp; Data Analysis in university
 - 👯 I’m looking to collaborate with a great company like ✨YOU✨!!
-- ⚡ Fun fact: Computer science is my second major, but I'm spending more time on it than my first. 🥹 <br> And I'm proud of the lot of effort I've put in and my ability to develop like that!! 💪
+- ⚡ Fun fact: Computer science is my second major, but I&#39;m spending more time on it than my first. 🥹 <br> And I&#39;m proud of the lot of effort I&#39;ve put in and my ability to develop like that!! 💪
 
-## 💻 DEV's log 💻
+## 💻 DEV&#39;s log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://beanyyy.github.io/">
         <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"> 
@@ -37,8 +32,8 @@ toc_label: "MYSELF"
     <a href="https://www.notion.so/6c2a12bc59f34f26bda324358272f111?v=33dd84b01c1a4fbda550b13190633951&pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
- 
+
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/yevin_j/">
@@ -48,8 +43,8 @@ toc_label: "MYSELF"
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
-## 🔨 Once I've used 🔨
+
+## 🔨 Once I&#39;ve used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 

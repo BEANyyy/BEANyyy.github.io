@@ -11,13 +11,6 @@ toc_label: "MYSELF"
 
 ### Hi there 👋
 
-<!--
-**BEANyyy/BEANyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
- ~~~
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yebin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
@@ -84,4 +77,4 @@ Here are some ideas to get you started:
     <br>
 </div><br>
 </div>
- ~~~
+

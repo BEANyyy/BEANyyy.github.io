@@ -30,9 +30,12 @@ masthead_title           : ""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider    : "disqus"                                # comment 처리 사이트 명칭 기재
+              # false (default), "disqus", "discourse", "facebook"
+              # "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname : "eona1301-github-io"                    # disqus의 shortname 기재
+              # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -96,9 +99,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-5HQPK7RHNC"
     anonymize_ip         : # true, false (default)
 
 
@@ -278,6 +282,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true                                    # comment 를 주석 해지 후 true로 수정하기
       share: true
       related: true

@@ -20,7 +20,7 @@ title                    : "개발자와 콩나무"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yes BEAN"
-description              : "콩알만큼 사소한 것도 기록하는 개발 습관"
+description              : "콩 한 쪽이라도 기록하자! 사소한 것도 기억하는 기록 습관"
 url                      : "https://BEANyyy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/BEANyyy/BEANyyy.github.io"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Yebin Jeong"
   avatar           : "/images/profile.jpg"
-  bio              : "**콩알만큼 사소한** 것들도 기록하자! <br>개인 개발 공부 및 참여한 프로젝트들을 업로드합니다."
+  bio              : "**콩 한 쪽**이라도 기록하자! 🫘<br> 사소한 것도 기억하는 기록 습관<br>개인 개발 공부 및 참여한 프로젝트들을 업로드합니다."
   location         : "Somewhere"
   email            :
   links:

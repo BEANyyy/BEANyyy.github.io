@@ -1,10 +1,12 @@
-<hr>
-<p>permalink: /about/
-title: &quot;About&quot;
+---
+permalink: /about/
+title: "About"
 toc: true
 toc_sticky: true
-toc_label: &quot;MYSELF&quot;</p>
-<hr>
+toc_label: "MYSELF"
+
+
+---
 <h3 id="hi-there-">Hi there 👋</h3>
 <div align="left">
 

@@ -13,7 +13,7 @@ toc_label: "MYSELF"
 <div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;text=Welcome%20to%20Yebin&#39;s%20GitHub%20👋&amp;animation=twinkling&amp;fontSize=35&amp;fontAlignY=40&amp;fontAlign=70&amp;height=250" alt="header">
----
+
 <br>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBEANyyy&amp;count_bg=%2379C83D&amp;title_bg=%23FF6262&amp;icon=github.svg&amp;icon_color=%23FFFFFF&amp;title=hits&amp;edge_flat=false" alt="GITHUB"></a>
@@ -21,7 +21,7 @@ toc_label: "MYSELF"
 <a href="https://github.com/BEANyyy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=BEANyyy&amp;include_all_commits=true&amp;theme=nord&amp;hide_border=true&amp;count_private=true" alt="YEBIN&#39;s GitHub stats"></a>
 
 <br>
----
+
 ## 😆 Introduction <br>
 - 🔭 I’m currently working on my project <a href="https://github.com/BEANyyy/AnalysticStockData">AnalysticStockData</a> for graduation <br>
 - 🌱 I’m currently learning ML &amp; Data Analysis in university <br>

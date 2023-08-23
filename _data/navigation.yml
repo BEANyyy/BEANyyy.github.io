@@ -14,23 +14,9 @@ sidebar-category:
 - title: "프로젝트 Projects"
   url: "/categories/#프로젝트"
   children:
-    - title : "인공지능 AI"
-      url:  "/tags/#ai"
-      children:
-      - title: "도서 추천 챗봇 BookRecommendationChatbot"
-        url: "/tags/#esn주가분석"
-      - title: "주식 가격 예측 모델 StockPricePredictionAIModel"
-        url: "/tags/#esn주가분석"
-    - title: "데이터분석 DataAnalysis"
-      url:  "/tags/#데이터분석"
-      children:
-      - title: "침수 요인 분석 InundationFactorAnalysis" 
-        url: "/tags/#데이터분석"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    - title: "도서 추천 챗봇 BookRecommendationChatbot"
+      url: "/tags/#esn주가분석"
+    - title: "주식 가격 예측 모델 StockPricePredictionAIModel"
+      url: "/tags/#esn주가분석"
+    - title: "침수 요인 분석 InundationFactorAnalysis" 
+      url: "/tags/#데이터분석"

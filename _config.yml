@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "🫘 개발자와 콩나무 ☘️"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yes BEAN"
+name                     : "BEANyyy"
 description              : "콩 한 쪽이라도 기록하자! 사소한 것도 기억하는 기록 습관"
 url                      : "https://BEANyyy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -111,8 +111,8 @@ author:
   name             : "Yebin Jeong"
   avatar           : "/images/profile.jpg"
   bio              : "**콩 한 쪽**이라도 기록하자! 🫘<br> 사소한 것도 기억하는 기록 습관<br>개인 개발 공부 및 참여한 프로젝트들을 업로드합니다."
-  location         : "Somewhere"
-  email            :
+  location         : "Republic of Korea"
+  email            :  "yevin2001@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

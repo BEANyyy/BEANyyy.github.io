@@ -3,15 +3,15 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #FFFFFF!default; //배경색
-$text-color: #000 !default; //글자색
+$background-color: #252a34 !default; //배경색
+$text-color: #eaeaea !default; //글자색
 $muted-text-color: $text-color !default;
 $primary-color: #00B890 !default; //포인트 색
 $border-color: #d6fff6 !default;//mix(#fff, $text-color, 75%) !default;  //테두리 색
 $footer-background-color: #BCBDC2 !default;   // footer 배경색
-$link-color: #00B890 !default;  // 게시물 글자색
+$link-color: #ffffff !default;  // 게시물 글자색
 $link-color-hover: #d6fff6 !default; // 포인터 올렸을 때 글자색
-$masthead-link-color: #00B890 !default; //$text-color !default; // 상단링크 글자색
+$masthead-link-color: #ff1307 !default; //$text-color !default; // 상단링크 글자색
 $masthead-link-color-hover: $text-color !default; // 포인터 올렸을 때 글자색
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 

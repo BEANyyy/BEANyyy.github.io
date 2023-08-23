@@ -23,7 +23,7 @@ sidebar-category:
     - title: "데이터분석 DataAnalysis"
       url:  "/tags/#데이터분석"
     - title: "머신러닝 MachineLearning"
-      url:  "/tags/#ML"
+      url:  "/tags/#ml"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

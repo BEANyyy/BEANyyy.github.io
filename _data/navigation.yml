@@ -24,6 +24,8 @@ sidebar-category:
       url: "/tags/#쇼핑몰"
     - title: "트위터 클론 코딩 CloneCodingTwitter" 
       url: "/tags/#트위터클론코딩"
+    - title: "2023 Samsung AI Challenge : Machine Learning Force Fields" 
+      url: "/tags/#SamsungAIChallenge"
 - title: "대외활동 Extracurricular Activities"
   url: "/categories/#대외활동"
   children:

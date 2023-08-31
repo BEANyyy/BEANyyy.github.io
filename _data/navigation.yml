@@ -24,3 +24,13 @@ sidebar-category:
       url: "/tags/#쇼핑몰"
     - title: "트위터 클론 코딩 CloneCodingTwitter" 
       url: "/tags/#트위터클론코딩"
+- title: "대외활동 Extracurricular Activities"
+  url: "/categories/#대외활동"
+  children:
+    - title: "CS 스터디 CSStudyGroup"
+      url: "/tags/#CS스터디"
+- title: "자격증 Licenses&Certificates"
+  url: "/categories/#자격증"
+  children:
+    - title: "정보처리기사 EngineerInformationProcessing"
+      url: "/tags/#정보처리기사"
